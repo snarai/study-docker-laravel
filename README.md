@@ -54,4 +54,7 @@ $ php artisan dusk:install
 
 $ php artisan dusk:make LoginTest
 
+※テストケースが /tests/Browser/LoginTest.php に生成される。
+
 $ php artisan dusk
+
